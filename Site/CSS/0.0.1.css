@@ -1,0 +1,20 @@
+/* Ⓒ Mervy Newoor */
+/* VER 0.0.1  2022 */
+
+.elementor-template-full-width .site-content {
+    margin: 0;
+    background-color: #000;
+}
+.elementor-193 .elementor-element.elementor-element-f52c895:not(.elementor-motion-effects-element-type-background), .elementor-193 .elementor-element.elementor-element-f52c895 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-size: cover;
+    background-clip: content-box;
+}
+.elementor-heading-title {
+    color: #ffff00;
+}
+.tg-site-header.tg-site-header--both-left .tg-site-header-bottom .tg-container--flex {
+    align-content: center;
+}
+.main-navigation.tg-primary-menu > div > ul > li:hover > a {
+    color: #ffff00;
+}
