@@ -1,0 +1,61 @@
+/* Ⓒ Mervy Newoor */
+/* VER 0.1.1  2022 */
+/*       ZoM       */
+
+.site-content {
+    margin: 0;
+    background-color: #000
+}
+.elementor-193 .elementor-element.elementor-element-f52c895:not(.elementor-motion-effects-element-type-background), .elementor-193 .elementor-element.elementor-element-f52c895 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-size: cover;
+    background-clip: content-box;
+    background-position: center
+}
+.elementor-heading-title {
+    color: #ffff00
+}
+.tg-site-header.tg-site-header--both-left .tg-site-header-bottom .tg-container--flex {
+    align-content: center
+}
+.main-navigation.tg-primary-menu > div > ul > li:hover > a {
+    color: #ffff00
+}
+.everest-forms .StripeElement, .everest-forms canvas.evf-signature-canvas, .everest-forms input[type=date], .everest-forms input[type=datetime-local], .everest-forms input[type=email], .everest-forms input[type=file], .everest-forms input[type=image], .everest-forms input[type=month], .everest-forms input[type=number], .everest-forms input[type=password], .everest-forms input[type=range], .everest-forms input[type=search], .everest-forms input[type=tel], .everest-forms input[type=text], .everest-forms input[type=time], .everest-forms input[type=url], .everest-forms input[type=week], .everest-forms select, .everest-forms textarea {
+    color: #494d50;
+    border: 1px solid #000000;
+    background-color: #000000
+}
+.elementor-193 .elementor-element.elementor-element-2eb631a .elementor-heading-title {
+    color: #ffffff;
+}
+.elementor-193 .elementor-element.elementor-element-cc999e0 .elementor-heading-title {
+    color: #ffffff;
+}
+.everest-forms .evf-frontend-row input, .everest-forms .evf-frontend-row select, .everest-forms .evf-frontend-row textarea {
+    border-color: #000000;
+    background-color: #1a1a1a;
+    color: #a1a1a1;
+}
+.everest-forms label {
+    display: block;
+    line-height: 1.7;
+    margin: 0 0 10px 0;
+    color: #ffffff;
+    font-size: 14px;
+}
+.tg-page-header {
+   display: none;
+}
+.everest-forms .evf-field-container .evf-frontend-row .evf-frontend-grid .evf-field.everest-forms-validated .evf-signature-canvas,
+.everest-forms .evf-field-container .evf-frontend-row .evf-frontend-grid .evf-field.everest-forms-validated .select2-container,
+.everest-forms .evf-field-container .evf-frontend-row .evf-frontend-grid .evf-field.everest-forms-validated input.input-text,
+.everest-forms .evf-field-container .evf-frontend-row .evf-frontend-grid .evf-field.everest-forms-validated select,
+.everest-forms .evf-field-container .evf-frontend-row .evf-frontend-grid .evf-field.everest-forms-validated textarea {
+    border-color: #000000;
+}
+a {
+    color: #ffffff;
+}
+a:hover, a:focus {
+    color: #269bd1;
+}
