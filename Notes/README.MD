@@ -1,1 +1,0 @@
-Storage space for notes
